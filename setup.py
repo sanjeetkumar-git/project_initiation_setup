@@ -7,12 +7,12 @@ __version__ = "0.0.1"
 
 REPO_NAME = "project_initiation_Setup"
 AUTHOR_USER_NAME = "sanjeetkumar"
-PROJ_NAME = "Initiation_Setup"
+PROJECT_NAME = "Initiation_Setup"
 AUTHOR_EMAIL = "kumarsanjeetyes@gmail.com"
 DESC =  " A small python project initiation setup"
 
 setuptools.setup(
-    name=PROJ_NAME,
+    name=PROJECT_NAME,
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
